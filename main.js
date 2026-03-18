@@ -1,5 +1,5 @@
 function saludo(nombre) {
-    console.log("Hola, " + nombre + "!");
+    console.log("Mensaje desde main");
 }
 
 function saludo(nombre, mensaje) {
