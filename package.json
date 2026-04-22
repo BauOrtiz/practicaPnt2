@@ -1,0 +1,22 @@
+{
+  "name": "practica",
+  "version": "1.0.0",
+  "description": "practica",
+  "homepage": "https://github.com/BauOrtiz/practicaPnt2#readme",
+  "bugs": {
+    "url": "https://github.com/BauOrtiz/practicaPnt2/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BauOrtiz/practicaPnt2.git"
+  },
+  "license": "ISC",
+  "author": "Babau",
+  "type": "commonjs",
+  "main": "main.js",
+  "scripts": {
+    "test": "babuuu",
+    "dev": "node --watch .",
+    "start": "echo"
+  }
+}
